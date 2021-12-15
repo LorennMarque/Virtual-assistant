@@ -1,5 +1,5 @@
 # Virtual-assistant with Python
-I am learning python and this is the first project I have done, it can be further developed by adding more and more functions, but it is a good base to start with
+I'm learning python and this is the first project I have done, it can be further developed by adding more and more functions, but it is a good base to start with
 
 At first i had some problems with PyAudio, if you have the same problem try downloading a different version on this website
 
